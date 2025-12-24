@@ -1,0 +1,1 @@
+import{Bb as n,Xb as s,Yb as i,sc as o}from"./chunk-2STITFBG.js";var a=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=n({type:e,selectors:[["app-settings"]],decls:2,vars:0,consts:[[1,"coming-soon"]],template:function(t,c){t&1&&(s(0,"h1",0),o(1,"Coming soon..."),i())},encapsulation:2})};export{a as Settings};
